@@ -1,0 +1,14 @@
+# NEVER commit the real .env file — it holds secret API keys.
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
